@@ -1,3 +1,7 @@
+[![make.fun · markdown-render-speed-02](https://make.fun/badge/markdown-render-speed-02.svg)](https://make.fun/bounty/markdown-render-speed-02?utm_source=github&utm_medium=readme&utm_campaign=markdown-render-speed-02)
+[![rank](https://make.fun/badge/markdown-render-speed-02/StarsN/makefun-markdown-render/rank.svg)](https://make.fun/bounty/markdown-render-speed-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=markdown-render-speed-02)
+[![reward](https://make.fun/badge/markdown-render-speed-02/StarsN/makefun-markdown-render/reward.svg)](https://make.fun/bounty/markdown-render-speed-02?utm_source=github&utm_medium=readme&utm_campaign=markdown-render-speed-02)
+
 # markdown-render-speed-02 — entry
 
 A dependency-free Markdown-to-HTML renderer whose output is byte-identical
